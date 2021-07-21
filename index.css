@@ -27,3 +27,8 @@ background-color: lightcoral;
 .h2third {
 background-color: skyblue;
 }
+
+.price {
+    color: Blue;
+    font-weight: bold;
+}

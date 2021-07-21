@@ -1,0 +1,26 @@
+h1 {
+font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+text-align: center;
+}
+
+h2 {
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+}
+
+.h2first {
+background-color: mediumspringgreen;
+}
+
+.h2secound {
+background-color: lightcoral;
+}
+
+.h2third {
+background-color: skyblue;
+}
